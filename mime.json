@@ -1,0 +1,7 @@
+{".memgz":"application/octet-stream",
+  ".datagz":"application/octet-stream",
+  ".unity3dgz":"application/octet-stream",
+  ".jsgz":"application/x-javascript; charset=UTF-8",
+    "wasm"    : "application/wasm",
+    "WebAssembly":"application/wasm",
+ ".*":"application/octet-stream"}
